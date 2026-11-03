@@ -1,0 +1,67 @@
+{
+  "77c7aed0": {
+    "document_id": "77c7aed0",
+    "file_name": "Government_Economic_Survey.pdf",
+    "file_hash": "eeb015c0d55bd66f6bc4126f59b470bb8d27ff578feef95a7b3a381ebdfc7c49",
+    "page_count": 2,
+    "total_chars": 967,
+    "chunk_count": 3,
+    "upload_time": "2026-11-04 03:35:09",
+    "category": "Technical Documentation",
+    "category_confidence": 0.67,
+    "has_scanned_pages": false,
+    "processing_status": "completed"
+  },
+  "270e8157": {
+    "document_id": "270e8157",
+    "file_name": "Research_Paper_AI_RAG.pdf",
+    "file_hash": "0d9fa9df22e6e30f8f387e6d716689090bfbe24b6c7f8958440e6179168b4278",
+    "page_count": 3,
+    "total_chars": 1763,
+    "chunk_count": 5,
+    "upload_time": "2026-11-04 03:35:10",
+    "category": "Academic & Research",
+    "category_confidence": 0.62,
+    "has_scanned_pages": false,
+    "processing_status": "completed"
+  },
+  "488c6167": {
+    "document_id": "488c6167",
+    "file_name": "Edge_Case_Test_Doc.pdf",
+    "file_hash": "1aba3d353a154f4ba5963809c8dc1ea24ddaa259427c9a0b17695a8317abfce9",
+    "page_count": 1,
+    "total_chars": 303,
+    "chunk_count": 1,
+    "upload_time": "2026-11-04 03:35:10",
+    "category": "General Document",
+    "category_confidence": 0.5,
+    "has_scanned_pages": false,
+    "processing_status": "completed"
+  },
+  "d6ba4fae": {
+    "document_id": "d6ba4fae",
+    "file_name": "Employee_Leave_and_Ethics_Policy.pdf",
+    "file_hash": "be9f539ac7a8c879b0b77172d95b5d3df0dd009c2a5e8c4299fedc25ca80b573",
+    "page_count": 2,
+    "total_chars": 1018,
+    "chunk_count": 3,
+    "upload_time": "2026-11-04 03:35:10",
+    "category": "Policy & Compliance",
+    "category_confidence": 0.98,
+    "has_scanned_pages": false,
+    "processing_status": "completed"
+  },
+  "39794045": {
+    "document_id": "39794045",
+    "file_name": "Corporate_Annual_Report_2025.pdf",
+    "file_hash": "41fa2baf4987f0aaaa7eeac6b8d8f88f7b04f032839ecf6a3cc2ffae949be684",
+    "page_count": 3,
+    "total_chars": 1281,
+    "chunk_count": 4,
+    "upload_time": "2026-11-04 03:35:10",
+    "category": "Company & Financial",
+    "category_confidence": 0.98,
+    "has_scanned_pages": false,
+    "processing_status": "completed"
+  }
+}

@@ -16,6 +16,10 @@ __pycache__/
 # Vector database cache
 chroma_db/
 
+# Private interview guides
+*Interview*.pdf
+DocuLens_Complete_Interview_and_Mastery_Guide.pdf
+
 # OS artifacts
 .DS_Store
 Thumbs.db

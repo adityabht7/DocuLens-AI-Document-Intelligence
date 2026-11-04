@@ -26,21 +26,23 @@ def detect_document_category(text: str, file_name: str) -> Dict[str, Any]:
     keywords = {
         "Academic & Research": [
             "abstract", "methodology", "doi", "et al", "hypothesis", "experiment",
-            "findings", "literature review", "arxiv", "peer review", "citation"
+            "findings", "literature review", "arxiv", "peer review", "citation",
+            "paper", "study", "research", "survey", "journal", "transformer", "dataset"
         ],
         "Company & Financial": [
             "revenue", "fiscal year", "balance sheet", "net income", "ebitda",
             "financial statement", "cash flow", "quarterly report", "sec filing",
-            "profit", "shareholder", "annual report"
+            "profit", "shareholder", "annual report", "operating expenses", "dividend"
         ],
         "Policy & Compliance": [
             "policy", "compliance", "terms and conditions", "privacy policy",
             "statutory", "regulations", "governance", "leave policy", "eligibility",
-            "code of conduct", "harassment", "disclaimer"
+            "code of conduct", "harassment", "disclaimer", "ethics", "entitlement"
         ],
         "Technical Documentation": [
             "api", "architecture", "sdk", "installation", "endpoint", "parameters",
-            "configuration", "database", "deployment", "repository", "framework"
+            "configuration", "database", "deployment", "repository", "framework",
+            "diagnostics", "protocol", "module"
         ]
     }
 
@@ -51,7 +53,7 @@ def detect_document_category(text: str, file_name: str) -> Dict[str, Any]:
 
     best_category, max_score = max(scores.items(), key=lambda item: item[1])
 
-    if max_score < 2:
+    if max_score < 1:
         best_category = "General Document"
         confidence = 0.50
     else:

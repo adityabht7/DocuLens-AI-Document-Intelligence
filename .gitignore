@@ -17,8 +17,8 @@ __pycache__/
 chroma_db/
 
 # Private interview guides
-*Interview*.pdf
-DocuLens_Complete_Interview_and_Mastery_Guide.pdf
+*Interview*
+*interview*
 
 # OS artifacts
 .DS_Store

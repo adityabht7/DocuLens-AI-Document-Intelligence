@@ -199,19 +199,6 @@ python3 scripts/run_evaluation.py
 
 ---
 
-## 8. Placement Resume Bullets
-
-Use these points for software engineering, ML, and data science resumes:
-
-- **DocuLens – AI-Powered Document Intelligence Platform | Python, Streamlit, RAG, ChromaDB, Sentence Transformers, Ollama**
-  - Architected an end-to-end Retrieval-Augmented Generation (RAG) platform enabling semantic search and question-answering across multi-page PDF documents.
-  - Developed custom ingestion pipeline incorporating file signature validation, SHA-256 duplicate detection, text cleaning, and sentence-boundary chunking with strict page-number preservation.
-  - Implemented 384-dimensional vector indexing using `all-MiniLM-L6-v2` and ChromaDB with hybrid semantic and lexical reranking.
-  - Integrated local LLM inference via Ollama (`llama3.2:3b`) alongside an automated zero-hallucination fallback engine, achieving **100% Recall@5** and sub-100ms average retrieval latency across a 32-question ground-truth evaluation benchmark.
-  - Built an interactive Streamlit analytics suite featuring multi-document comparison, automated executive summaries, and a full 16-test Pytest validation suite.
-
----
-
-## 9. License & Acknowledgments
+## 8. License & Acknowledgments
 Built with open-source tools: [Streamlit](https://streamlit.io), [ChromaDB](https://trychroma.com), [Sentence Transformers](https://sbert.net), and [PyPDF](https://pypdf.readthedocs.io).
 Distributed under the MIT License.

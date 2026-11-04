@@ -1,6 +1,6 @@
 # DocuLens – AI-Powered Document Intelligence Platform using RAG and Semantic Search
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Active%20Online-brightgreen.svg)](https://combining-sculpture-clip-strategic.trycloudflare.com)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Active%20Online-brightgreen.svg)](https://occasions-bidder-parenting-designer.trycloudflare.com)
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=adityabht7/DocuLens-AI-Document-Intelligence&branch=main&mainModule=app.py)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%20%7C%203.12%20%7C%203.13-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/frontend-Streamlit-FF4B4B.svg)](https://streamlit.io/)
@@ -9,7 +9,7 @@
 [![Evaluation Recall@5](https://img.shields.io/badge/Recall%405-100%25-brightgreen.svg)]()
 [![Tests](https://img.shields.io/badge/tests-16%20passed-success.svg)]()
 
-> 🌐 **Live Web Application:** [https://combining-sculpture-clip-strategic.trycloudflare.com](https://combining-sculpture-clip-strategic.trycloudflare.com)  
+> 🌐 **Live Web Application:** [https://occasions-bidder-parenting-designer.trycloudflare.com](https://occasions-bidder-parenting-designer.trycloudflare.com)  
 > 🚀 **Instant 1-Click Cloud Deploy:** [Deploy to Streamlit Community Cloud](https://share.streamlit.io/deploy?repository=adityabht7/DocuLens-AI-Document-Intelligence&branch=main&mainModule=app.py)  
 > **Ask questions about your documents, get evidence-backed answers, and verify exactly where the information came from.**
 
